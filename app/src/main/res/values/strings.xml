@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">calculadora java</string>
+    <string-array name="operaciones_array">
+        <item>Sumar</item>
+        <item>Restar</item>
+        <item>Multiplicar</item>
+        <item>Dividir</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "965371983967",
+    "firebase_url": "https://eval3s-default-rtdb.firebaseio.com",
+    "project_id": "eval3s",
+    "storage_bucket": "eval3s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965371983967:android:65b71c711b3791b37703ea",
+        "android_client_info": {
+          "package_name": "com.example.calculadorajava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqWz8WXx2XXGRbGPsUxzpM01plSLhJ1Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
